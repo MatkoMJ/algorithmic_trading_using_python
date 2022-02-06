@@ -1,1 +1,1 @@
-# algoritmic_trading_using_python
+# algorithmic_trading_using_python
